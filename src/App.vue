@@ -9,7 +9,6 @@
 </template>
 
 <style lang="scss">
-$screen-xl-min: 1200px;
 * {
    margin: 0;
    padding: 0;
